@@ -1,0 +1,64 @@
+{
+    "header": [
+        {
+            "name": "Sobre nosotros",
+            "href": "https://www.ramo.com.co/sobre-nosotros/"
+        },
+        {
+            "name": "Productos",
+            "href": "https://www.ramo.com.co/familia-chocoramo/"
+        },
+        {
+            "name": "Sostenibilidad",
+            "href": "https://www.ramo.com.co/sostenibilidad/"
+        },
+        {
+            "name": "Pasabocas",
+            "href": "https://www.ramo.com.co/pasabocas/"
+        }
+    ],
+    "section":{
+        "pagrahp":{
+            "title": "El Ponque Colombiano<br><strong><span>¡Ramo!</span></strong>",
+            "pagrahp": "Desde hace 60 años hemos hecho parte de la vida de los colombianos, contribuyendo a crear momentos felices, celebraciones y millones de sonrisas",
+            "btn":{
+                "name":"Descubrir",
+                "href":"https://www.ramo.com.co/"
+            }
+        },
+        "image":{
+            "img": "img/img1.png"
+        }
+    },
+    "nav":[
+        {
+            "href": "https://www.facebook.com/ProductosRamo",
+            "src": "img/facebook.png"    
+        },
+        {
+            "href": "https://twitter.com/RamoColombia",
+            "src": "img/twitter.png"    
+        },
+        {
+            "href": "https://www.instagram.com/productosramo",
+            "src": "img/instagram.png"    
+        }
+    ],
+    "footer":[
+        {
+            "src":"img/img1.png",
+            "color": "#e23b06"
+
+        },
+        {
+            "src":"img/img2.png",
+            "color": "#00aad9"
+
+        },
+        {
+            "src":"img/img3.png",
+            "color": "#592d22"
+
+        }
+    ]
+}
