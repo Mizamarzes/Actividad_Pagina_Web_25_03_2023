@@ -1,6 +1,6 @@
 addEventListener("DOMContentLoaded", async(e)=>{
     // https://mizamarzes.000webhostapp.com/Actividad_Pagina_Web_25_03_2023/api.php
-    let peticion = await fetch("api.php");
+    let peticion = await fetch("https://mizamarzes.000webhostapp.com/Actividad_Pagina_Web_25_03_2023/api.php");
     let datos = await peticion.json();
     document.querySelector(".navigation").innerHTML = datos.header;
     document.querySelector(".textBox").innerHTML = datos.section.pagrahp;
@@ -8,8 +8,6 @@ addEventListener("DOMContentLoaded", async(e)=>{
     document.querySelector(".thumb").innerHTML = datos.footer;
     document.querySelector(".sci").innerHTML = datos.nav;
 })
-
-
 
 
 
